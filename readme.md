@@ -29,7 +29,7 @@ A simple and lightning-fast Python CLI tool to **extract specific columns** from
 Just download the script:
 
 ```bash
-wget https://github.com/kemalbatuhanabut/csv-column-filter/csv_filter.py
+wget https://github.com/kemalbatuhanabut/csv-column-filter/tree/main/csv_filter.py
 ````
 
 Make sure you have Python 3 installed (no extra packages needed).
